@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ChoiceBox"
+    }
+  },
+  "defaultProject": "ChoiceBox",
+  "cli": {
+    "analytics": false
+  }
 }
